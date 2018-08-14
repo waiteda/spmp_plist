@@ -17,13 +17,13 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/waiteda/spmp_plist/master/launcher_qd_120.png</string>
+					<string>https://raw.githubusercontent.com/waiteda/spmp_plist/master/launcher_120.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/waiteda/spmp_plist/master/launcher_qd_180.png</string>
+					<string>https://raw.githubusercontent.com/waiteda/spmp_plist/master/launcher_180.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -35,7 +35,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>招商收付通(渠道)</string>
+				<string>光大进件</string>
 			</dict>
 		</dict>
 	</array>
